@@ -17,5 +17,5 @@ function fib(n) {
 const n = 6; 
 const result = fib(n);
 console.log(`fib(${n}) = ${result}`);
-//Время выполнения - 56 ms
+//Время выполнения - 56 мс
 //Сложность - O(2^n)
